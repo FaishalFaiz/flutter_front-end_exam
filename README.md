@@ -2,6 +2,9 @@
 
 Just a flutter front-end project for my school exam :V, this is only a UI slicing, for the UI design i took from Figma Community.
 
+<br>
+*note : because while building this app i using chrome web for the emulator, i'm not sure the UI will looks good to in mobile 
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
