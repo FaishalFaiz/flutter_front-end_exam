@@ -1,6 +1,6 @@
-# flutter_idn_exam
+# flutter_front-end_exam
 
-A new Flutter project.
+Just a flutter front-end project for my school exam :V, this is only a UI slicing, for the UI design i took from Figma Community.
 
 ## Getting Started
 
